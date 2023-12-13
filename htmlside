@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ST - Scientific Terminology</title>
+    <link rel="stylesheet" href="inputcss.css">
+</head>
+<body>
+    <h1>Bu büyük bir başlık!</h1>
+    <p>Bu sadece bir paragraf metni</p>
+    <em>Bişeyler!</em> <br> merhaba arkadaşlar
+    <strong>Strong boi</strong>
+    <h2>Bu daha az büyük bir başlık</h2>
+
+    <ul>
+       <li>Bu bir madde işaretli liste öğesidir (ilk öğe)</li>
+       <li>bu da ikinci öğe</li>
+     </ul>
+     
+     <img src="https://memeincase.com/wp-content/uploads/2023/11/IMG_4272-1024x687.png" alt="Kawazaki" width="500" length="500">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStdmKgWG81UTroIm6OpQMckMYlZ0VTiMzQZze96YXur5msMVpRZfxNqz7pCsj-nRQjwJ4&usqp=CAU" alt="Technoloji">
+</body>
+</html>
