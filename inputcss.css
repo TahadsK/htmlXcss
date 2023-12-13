@@ -1,0 +1,18 @@
+/* Coded by Taha*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #f0f0f0;
+    color: #333333;
+}
+
+h1{
+    color: #00a800;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
